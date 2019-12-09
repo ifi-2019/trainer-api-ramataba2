@@ -72,4 +72,9 @@ class TrainerControllerTest {
 
         assertNotNull(pathVariableAnnotation);
     }
+
+    @Test
+    void createTrainer_shouldBeAnnotated() throws NoSuchMethodException{
+        
+    }
 }
